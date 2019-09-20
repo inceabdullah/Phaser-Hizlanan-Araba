@@ -21,7 +21,6 @@ Phaser 3 ile ikinci oyun denemesi
 Araç uçlarıbelli hizağıya geldiği zaman diğeriyle aynı şeritte olu olmadığına bakılır:
 
    `Carpis_bak(){
-
       // if both cars are in the same side
 
       if (this.__araba.x == this.__diger_obj.x){
